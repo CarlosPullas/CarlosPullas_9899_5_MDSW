@@ -1,2 +1,3 @@
-# CarlosPullas_9899_5_MDSW-5
-CarlosPullas_9899_#G_MDSW #G= Número de grupo
+# CarlosPullas_9899_5_MDSW
+CarlosPullas_9899_5_MDSW
+Integrantes:  Carlos A. Pullas  -  Michael A. Villacres
